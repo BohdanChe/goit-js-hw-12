@@ -104,9 +104,8 @@ span{
     border-radius: 50%;
     animation: spin 0.8s linear infinite;
 }
-
-.hidden {
-    display: none;
+.hidden{
+    display: none !important;
 }
 
 @keyframes spin {
